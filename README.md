@@ -11,7 +11,7 @@ weight: 0
 guidelines, fully responsive, optimized for touch and pointer devices as well
 as all sorts of screen sizes.
 
-![Material Screenshot](/images/screen.png)
+![Material Screenshot](/doc/images/screen.png)
 
 Material is very lightweight – it is built from scratch using Javascript and
 CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts
