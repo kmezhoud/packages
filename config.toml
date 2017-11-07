@@ -51,10 +51,10 @@ googleAnalytics = ""
 	weight = 0
 
 
-#[[menu.main]]
-#	name   = "Roadmap"
-#	url    = "roadmap/"
-#	weight = 30
+[[menu.main]]
+	name   = "Roadmap"
+	url    = "roadmap/"
+	weight = 30
 
 
 [blackfriday]
