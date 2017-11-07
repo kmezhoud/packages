@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/download-stats/</loc>
+    <loc>/download-statsbkp/</loc>
     <lastmod>2017-07-24T00:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/tweets/</loc>
+    <loc>/tweetsbkp/</loc>
     <lastmod>2017-10-01T00:11:02+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/</loc>
+    <loc>/</loc>
     <lastmod>2017-07-08T21:07:13+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/download-stats/</loc>
+    <loc>/download-statsbkp/</loc>
     <lastmod>2017-07-24T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/</loc>
+    <loc>/</loc>
     <lastmod>2017-07-24T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://guangchuangyu.github.io/software/tweets/</loc>
+    <loc>/tweetsbkp/</loc>
     <lastmod>2017-10-01T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Download-stats on Karim Mezhoud</title>
-    <link>/download-stats/</link>
-    <description>Recent content in Download-stats on Karim Mezhoud</description>
+    <title>Download-statsBKPs on Karim Mezhoud</title>
+    <link>/download-statsbkp/</link>
+    <description>Recent content in Download-statsBKPs on Karim Mezhoud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Mon, 24 Jul 2017 00:11:02 +0100</lastBuildDate>
     
-	<atom:link href="/download-stats/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/download-statsbkp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Download stats</title>
-      <link>/download-stats/</link>
+      <link>/download-statsbkp/</link>
       <pubDate>Mon, 24 Jul 2017 00:11:02 +0100</pubDate>
       
-      <guid>/download-stats/</guid>
+      <guid>/download-statsbkp/</guid>
       <description></description>
     </item>
     
