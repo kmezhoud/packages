@@ -29,12 +29,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <priority>0</priority>
   </url>
@@ -42,6 +36,12 @@
   <url>
     <loc>/tweets/</loc>
     <lastmod>2017-10-01T00:11:02+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-07-24T00:11:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   

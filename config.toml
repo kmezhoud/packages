@@ -1,6 +1,6 @@
-baseurl = "https://guangchuangyu.github.io/software/"
+baseurl = "https://kmezhoud.github.io/software/"
 languageCode = "en-us"
-title = "Guangchuang's software packages"
+title = "kmezhoud's software packages"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -14,13 +14,13 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
 	# General information
-	author = "Guangchuang Yu"
+	author = "Karim Mezhoud"
 	description = "A material design theme for documentations."
 	copyright = "Released under the Artistic-2.0 license"
 
 	# Repository
 	provider = "GitHub"
-	repo_url = "https://github.com/GuangchuangYu/software"
+	repo_url = "https://github.com/kmezhoud/software"
 
 	# version = "1.0.0"
 	logo = "images/logo.png"
@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	highlight_css  = ""
 
 	[params.palette]
-    	primary = "red"
+    	primary = "blue"
     	accent  = "teal"
 
     [params.font]
@@ -44,9 +44,9 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [social]
-	twitter = "guangchuangyu"
+	twitter = "#"
 	github  = "kmezhoud"
-	email   = "guangchuangyu@gmail.com"
+	email   = "kmezhoud@gmail.com"
  	wechat  = "biobabble"
 
 [[menu.main]]
@@ -55,15 +55,15 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	weight = 1
 
 
-[[menu.main]]
-	name   = "Download stats"
-	url    = "download-stats/"
-	weight = 10
+#[[menu.main]]
+#	name   = "Download stats"
+#	url    = "download-stats/"
+#	weight = 10
 
-[[menu.main]]
-	name   = "Tweets"
-	url    = "tweets/"
-	weight = 50
+#[[menu.main]]
+#	name   = "Tweets"
+#	url    = "tweets/"
+#	weight = 50
 
 
 [blackfriday]
