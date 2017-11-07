@@ -27,7 +27,6 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 	favicon = ""
 
 	permalink = "#"
-
 	# Custom assets
 	custom_css = []
 	custom_js  = []
@@ -46,7 +45,7 @@ ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [social]
 	twitter = "guangchuangyu"
-	github  = "GuangchuangYu"
+	github  = "kmezhoud"
 	email   = "guangchuangyu@gmail.com"
  	wechat  = "biobabble"
 
